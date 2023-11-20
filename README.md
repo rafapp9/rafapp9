@@ -15,5 +15,5 @@
 ------------------------------------------------
 
 ![Rafael Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapp9&show_icons=true&theme=vue-dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapp9)
 
