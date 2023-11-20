@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB860&width=435&lines=Hello%2C+I'm+Rafael+Cunha!)](https://git.io/typing-svg)
 -----------------------------------------------------
 
-📍 From Lisbon, Portugal  |  💻 Currently learning Java		
+📍 From Lisbon, Portugal  |  💻 Currently learning Java	& JavaScript	
 
 
 
